@@ -1,6 +1,6 @@
 build:
-	gcc -o tema3 tema3.c
+	gcc -o linuxcmd linuxcmd.c
 run:
-	./tema3 
+	./linuxcmd 
 clean:
-	rm tema3
+	rm linuxcmd
