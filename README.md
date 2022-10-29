@@ -31,4 +31,4 @@ To make the program work we used these functions:
     16. rmStDrD:    deletes from the lexicographical list the given directory
     17. rmdir:      deletes the directory
     18. pwd:        goes untill root and then prints
-    19. cd:         checks if the given directory exists and then switches to it
+    19. cd:         checks if the given directory exists and then switches to it"# Linux_Terminal_Simulator" 
